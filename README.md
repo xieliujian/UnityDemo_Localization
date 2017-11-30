@@ -1,0 +1,2 @@
+# UnityDemo_Localization
+Localization的Demo展示ngui中多语言的使用
